@@ -1,0 +1,213 @@
+[
+    {
+      "Id": 0,
+      "Title": "Shawshank Redemption",
+      "Description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "Image": "./assets/images/the_shawshank_redemption.jpeg",
+      "Category": "Drama"
+    },
+    {
+      "Id": 1,
+      "Title": "The Godfather",
+      "Description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "Image": "./assets/images/the_godfather.jpeg",
+      "Category": "Crime"
+    },
+    {
+      "Id": 2,
+      "Title": "The Dark Knight",
+      "Description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "Image": "./assets/images/the_dark_knight.jpeg",
+      "Category": "Action"
+    },
+    {
+      "Id": 3,
+      "Title": "Pulp Fiction",
+      "Description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "Image": "./assets/images/pulp_fiction.jpeg",
+      "Category": "Crime"
+    },
+    {
+      "Id": 4,
+      "Title": "Forrest Gump",
+      "Description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+      "Image": "./assets/images/forrest_gump.webp",
+      "Category": "Drama"
+    },
+    {
+      "Id": 5,
+      "Title": "Inception",
+      "Description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+      "Image": "./assets/images/inception.jpeg",
+      "Category": "Science Fiction"
+    },
+    {
+      "Id": 6,
+      "Title": "The Matrix",
+      "Description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "Image": "./assets/images/the_matrix.jpeg",
+      "Category": "Science Fiction"
+    },
+    {
+      "Id": 7,
+      "Title": "The Silence of the Lambs",
+      "Description": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "Image": "./assets/images/the_silence_of_the_lambs.jpeg",
+      "Category": "Thriller"
+    },
+    {
+      "Id": 8,
+      "Title": "Schindler's List",
+      "Description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "Image": "./assets/images/schindlers_list.jpeg",
+      "Category": "Drama"
+    },
+    {
+      "Id": 9,
+      "Title": "The Lord of the Rings",
+      "Description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "Image": "./assets/images/lord_of_the_rings.jpeg",
+      "Category": "Fantasy"
+    },
+    {
+      "Id": 10,
+      "Title": "Fight Club",
+      "Description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+      "Image": "./assets/images/fight_club.jpeg",
+      "Category": "Drama"
+    },
+    {
+      "Id": 11,
+      "Title": "The Green Mile",
+      "Description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+      "Image": "./assets/images/the_green_mile.jpeg",
+      "Category": "Drama"
+    },
+    {
+      "Id": 12,
+      "Title": "Goodfellas",
+      "Description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+      "Image": "./assets/images/goodfellas.jpeg",
+      "Category": "Crime"
+    },
+    {
+      "Id": 13,
+      "Title": "The Departed",
+      "Description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+      "Image": "./assets/images/the_departed.webp",
+      "Category": "Crime"
+    },
+    {
+      "Id": 14,
+      "Title": "Gladiator",
+      "Description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "Image": "./assets/images/gladiator.webp",
+      "Category": "Action"
+    },
+    {
+      "Id": 15,
+      "Title": "The Lion King",
+      "Description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "Image": "./assets/images/the_lion_king.jpeg",
+      "Category": "Animation"
+    },
+    {
+      "Id": 16,
+      "Title": "The Godfather: Part II",
+      "Description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "Image": "./assets/images/the_godfather_ii.jpeg",
+      "Category": "Crime"
+    },
+    {
+      "Id": 17,
+      "Title": "The Avengers",
+      "Description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "Image": "./assets/images/avengers.jpeg",
+      "Category": "Action"
+    },
+    {
+      "Id": 18,
+      "Title": "Django Unchained",
+      "Description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+      "Image": "./assets/images/django_unchained.jpeg",
+      "Category": "Western"
+    },
+    {
+      "Id": 19,
+      "Title": "Saving Private Ryan",
+      "Description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "Image": "./assets/images/saving_private_ryan.webp",
+      "Category": "War"
+    },
+    {
+      "Id": 20,
+      "Title": "The Wolf of Wall Street",
+      "Description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption, and the federal government.",
+      "Image": "./assets/images/the_wolf_of_wall_street.jpeg",
+      "Category": "Drama"
+    },
+    {
+      "Id": 21,
+      "Title": "The Social Network",
+      "Description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
+      "Image": "./assets/images/the_social_network.jpeg",
+      "Category": "Drama"
+    },
+    {
+      "Id": 22,
+      "Title": "The Revenant",
+      "Description": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+      "Image": "./assets/images/the_revenant.jpeg",
+      "Category": "Adventure"
+    },
+    {
+      "Id": 23,
+      "Title": "Jurassic Park",
+      "Description": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+      "Image": "./assets/images/jurassic_park.jpeg",
+      "Category": "Science Fiction"
+    },
+    {
+      "Id": 24,
+      "Title": "Inglourious Basterds",
+      "Description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+      "Image": "./assets/images/inglourious_basterds.webp",
+      "Category": "War"
+    },
+    {
+      "Id": 25,
+      "Title": "The Prestige",
+      "Description": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+      "Image": "./assets/images/the_prestige.webp",
+      "Category": "Mystery"
+    },
+    {
+      "Id": 26,
+      "Title": "The Departed",
+      "Description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+      "Image": "./assets/images/the_departed.webp",
+      "Category": "Crime"
+    },
+    {
+      "Id": 27,
+      "Title": "Gladiator",
+      "Description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "Image": "./assets/images/gladiator.webp",
+      "Category": "Action"
+    },
+    {
+      "Id": 28,
+      "Title": "The Lion King",
+      "Description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "Image": "./assets/images/the_lion_king.jpeg",
+      "Category": "Animation"
+    },
+    {
+      "Id": 29,
+      "Title": "The Godfather: Part II",
+      "Description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "Image": "./assets/images/the_godfather_ii.jpeg",
+      "Category": "Crime"
+    }
+  ]
+  

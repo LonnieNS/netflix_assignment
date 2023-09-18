@@ -1,0 +1,151 @@
+
+
+main {
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+
+/* HEADER */
+
+nav {
+    width: 100vw;
+    display: flex;
+}
+
+.nav_container {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.branding {
+    width: 10%;
+}
+
+.menu_list {
+    display: flex;
+    margin-left: 10px;
+}
+
+.menu_item {
+    margin: 22px 10px;
+}
+
+.header_hero {
+    height: 80vh;
+    background-image:url('../assets/images/godfather_background.jpeg');
+    background-size: cover;
+    padding: 3vw;
+}
+
+
+
+.header_play_btn {
+    background-color: white;
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+}
+
+.play_shape {
+    background-color: black;
+    clip-path: polygon(100% 48%, 0 0, 0 100%);
+    width: 15px;
+    height: 18px;
+    margin-right: 8px;
+}
+
+.play {
+    color: black;
+}
+
+.header_description {
+    width: 50%;
+}
+
+/* LISTS */
+
+.list_content {
+    display: flex;
+    max-width: 96vw;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space:nowrap;
+}
+
+.list_content::-webkit-scrollbar {
+    display: none;
+}
+
+.all_movies_container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.btn {
+    border-style: none;
+    background: none;
+    color: white;
+}
+
+/* MOVIE ELEMENTS */
+
+.movie_cover_thumb {
+    width: 200px;
+    height: 125px;
+}
+
+.movie_container {
+    margin-left: 5px;
+}
+
+/* MODAL */
+
+.modal_container {
+    display: none;
+    position: fixed;
+    top: 5vh;
+    left: 5vw;
+    background-color: black;
+    width: 90vw;
+    padding: 20px;
+}
+
+.close_btn_container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.show {
+    display: block;
+}
+
+.view_more_movie_container{
+    display: flex;
+    width: 85vw;
+}
+
+.view_more_img_div{
+    width: 100%;
+}
+
+.view_more_img {
+    width: 100%;
+}
+
+.view_more_right {
+    width: 60%;
+    padding: 20px;
+}
+
+.view_more_movie_title{
+    font-size: 3rem;
+} 
+
+.view_more_movie_description {
+    font-size: 1.5rem;
+}

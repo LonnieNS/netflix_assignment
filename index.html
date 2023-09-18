@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/index.js" type="module"></script>
+    <title>Netflix</title>
+</head>
+
+<body>
+
+    <header>
+        <div class="header_hero">
+            <nav>
+                <div class="branding">
+                    <img src="assets/images/netflix_logo.png" class="netflix_logo_img">
+                </div>
+                <div class="nav_container">
+                    <div class="menu_list">
+                        <div class="menu_item"><a href="#">Home</a></div>
+                        <div class="menu_item"><a href="#">TV Shows</a></div>
+                        <div class="menu_item"><a href="#">Movies</a></div>
+                        <div class="menu_item"><a href="#">New & Popular</a></div>
+                        <div class="menu_item"><a href="#">My List</a></div>
+                        <div class="menu_item"><a href="#">Browse By Languages</a></div>
+                    </div>
+                </div>
+            </nav>
+            <div class="header_content">
+                <div class="header_left">
+                    <div class="header_title">
+                        <h1>The Godfather</h1>
+                    </div>
+                    <div class="header_description"><p class="description_p">The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.</p></div>
+                    <div class="header_btns_container">
+                        <div class="header_play_btn"><div class="play_shape"></div> <p class="play">Play</p></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </header>
+
+    <main> <div class="favourite_list">
+            <div class="list_title_container">
+                <h2>Favoritter</h2>
+            </div>
+            <div class="favourite_list_content list_content"></div>
+        </div>
+   
+        <section class="category_crime">
+            <div class="list_title_container">
+                <h2>Krimi</h2>
+            </div>
+            <div class="crime_list_content list_content"></div>
+        </section>
+        <section class="category_science_fiction">
+            <div class="list_title_container">
+                <h2>Science Fiction</h2>
+            </div>
+            <div class="sci_fi_list_content list_content"></div>
+        </section>
+        <section class="category_drama">
+            <div class="list_title_container">
+                <h2>Drama</h2>
+            </div>
+            <div class="drama_list_content list_content"></div>
+        </section>
+        <section class="category_action">
+            <div class="list_title_container">
+                <h2>Action</h2>
+            </div>
+            <div class="action_list_content list_content"></div>
+        </section>
+        <section class="category_thriller">
+            <div class="list_title_container">
+                <h2>Thriller</h2>
+            </div>
+            <div class="thriller_list_content list_content"></div>
+        </section>
+
+        <section class="all_movies_section">
+            <h2>Alle film:</h2>
+            <div class="all_movies_container"></div>
+        </section>
+
+        </div>
+
+        <div class="modal_container">
+            <div class="close_btn_container"> 
+                <div class="close_btn"><p>X</p></div>
+            </div>
+            <div class="view_more_modal"></div>
+        </div>
+    </main>
+
+    <footer>
+
+    </footer>
+</body>
+</html>
